@@ -1,6 +1,7 @@
 # game_myself
 
 A new Flutter application.
+awesome game using flutter
 
 ## Getting Started
 
